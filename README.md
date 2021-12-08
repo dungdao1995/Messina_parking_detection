@@ -23,3 +23,5 @@ which is deployed on local machine.
 • User’s interface are Moblie Apps or Web Apps.
 <img width="698" alt="Screen Shot 2021-12-08 at 1 26 03 AM" src="https://user-images.githubusercontent.com/53828158/145126589-efcfd72d-cf3e-42e9-9ae8-86153e5d8b06.png">
 <img width="604" alt="Screen Shot 2021-12-08 at 1 26 43 AM" src="https://user-images.githubusercontent.com/53828158/145126633-a2b3c115-5fb5-42e1-a123-61c20ef6ded3.png">
+# Result
+<img width="474" alt="Screen Shot 2021-12-08 at 1 27 36 AM" src="https://user-images.githubusercontent.com/53828158/145126726-39320fc2-a65e-4844-b37f-f5e91d35ad35.png">
